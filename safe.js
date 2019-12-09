@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="measuring-spatial-data-quality.html"}
-if(x=="2"){xxx="issues-of-model-structure-in.html"}
-if(x=="3"){xxx="digital-representation-of-phenomena.html"}
-if(x=="4"){xxx="exploring-decision-space-spatial.html"}a_to_ve[i].href="https://kafelinku.blogspot.com/2019/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="communication-of-spatial-concepts.html"}
+if(x=="2"){xxx="bringing-data-issues-and-modeling.html"}
+if(x=="3"){xxx="exploring-decision-space-spatial.html"}
+if(x=="4"){xxx="issues-of-model-structure-in.html"}a_to_ve[i].href="https://kafelinku.blogspot.com/2019/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
